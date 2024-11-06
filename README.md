@@ -46,6 +46,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sekiraw&theme=onedark&rank=S,A,AA,AAA,SS,SSS)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sekiraw&style=for-the-badge" alt="Profile Views" />
 </p>
