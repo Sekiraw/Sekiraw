@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Peter Bohus 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Sekiraw">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/bohus-peter-731a0222b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
