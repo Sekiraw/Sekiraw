@@ -11,7 +11,7 @@
 ### 🎮 About Me
 - 👨‍💻 **Web Application Developer** at **Whizystems Ltd.** by day
 - 🧪 **Game Tester** at **DAQA** by night
-- 💡 **Unity, C++, Python** enthusiast building immersive experiences
+- 💡 **C++, Python** enthusiast building immersive experiences
 - 🤖 Passionate about **AI & Data Science** applications in gaming
 
 ---
