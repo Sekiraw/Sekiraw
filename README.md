@@ -13,7 +13,7 @@
 - 👨‍💻 **Web Application Developer** at **Whizystems Ltd.** by day
 - 🧪 **Game Tester** at **DAQA** by night
 - 💡 **C, C++, Python** enthusiast building immersive experiences
-- 🗜️ Creating Python libraries for any use case
+- 🗜️ **Creating Python libraries** for any use case
 - 🤖 Passionate about **AI & Data Science** applications in gaming
 
 ---
