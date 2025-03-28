@@ -2,16 +2,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bohus-peter-731a0222b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px; padding: 5px 10px;" />
   </a>
 </p>
+
 
 ---
 
 ### 🎮 About Me
 - 👨‍💻 **Web Application Developer** at **Whizystems Ltd.** by day
 - 🧪 **Game Tester** at **DAQA** by night
-- 💡 **C++, Python** enthusiast building immersive experiences
+- 💡 **C, C++, Python** enthusiast building immersive experiences
+- 🗜️ Creating Python libraries for any use case
 - 🤖 Passionate about **AI & Data Science** applications in gaming
 
 ---
@@ -41,6 +43,7 @@
   [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
   [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+  [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 ---
 
@@ -48,6 +51,7 @@
 - Advanced **AI Models** and **Machine Learning Algorithms**
 - Creating seamless **cross-platform experiences**
 - Day by day, diving deeper into **game development** and **optimizations**
+- Optimizing everything from the core by **creating custom libraries**
 
 ---
 
